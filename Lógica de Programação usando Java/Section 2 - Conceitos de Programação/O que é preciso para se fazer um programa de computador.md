@@ -12,7 +12,7 @@ Uma linguagem de programação é um conjunto de regras **léxicas** (ortografia
 * **Sintática:** Diz respeita à Sentenças
 
 
-## IDE - Ambiente Integrado de Desenvolviment
+## IDE - Ambiente Integrado de Desenvolvimento
 
 É um conjunto de softwares utilizado para a construção de programas. 
 
