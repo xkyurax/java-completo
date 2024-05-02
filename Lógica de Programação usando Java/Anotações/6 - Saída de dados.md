@@ -1,6 +1,6 @@
 Saída de dados é quando o programa exibe, entrega ou retorna dados que foram processados após a entrada para o usuário. (Entrada -> Processamento -> Saída).
 
-
+______
 **Para escrever na tela um texto qualquer**
 
 **Sem quebra de linha ao final**
@@ -8,34 +8,30 @@ System.out.print("Bom dia!");
 
 **Com quebra de linha ao final**
 System.out.println("Bom dia!");
-
+______
 
 **Para escrever o conteúdo de uma variável de algum tipo básico**
 
 int y = 32;
 System.out.println(y);
-
+______
 
 **Para escrever o conteúdo de uma variável com ponto flutuante**
 
 double x = 10.35784;
 System.out.printf("%.2f%n", x);
 System.out.printf("%.4f%n", x);
-
-
+______
 
 **Para concatenar um elemento em um comando de escrita**
 
 System.out.println("Resultado= " + variavel);
-
-
-
+______
 
 **Para concatenar vários elementos em um mesmo comando de escrita formatada**
 
 System.out.printf("Resultado = %.2f metros%n", x);
-
-
+______
 
 **Para concatenar vários elementos em um mesmo comando de escrita formatada**
 
