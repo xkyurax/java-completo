@@ -20,8 +20,7 @@ tipo nome = valor inicial;
 
 ## Tipos primitivos
 
-![[Pasted image 20240502001201.png]]
-
+![[img/Pasted image 20240502001201.png]]
 ![[Pasted image 20240502001331.png]]
 
 ## Nomes de variáveis
