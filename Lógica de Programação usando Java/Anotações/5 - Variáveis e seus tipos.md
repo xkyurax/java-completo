@@ -20,8 +20,8 @@ tipo nome = valor inicial;
 
 ## Tipos primitivos
 
-![[img/Pasted image 20240502001201.png]]
-![[Pasted image 20240502001331.png]]
+![img](https://github.com/xkyurax/java-completo/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20usando%20Java/Anota%C3%A7%C3%B5es/img/Pasted%20image%2020240502001201.png?raw=true)
+![img2](https://github.com/xkyurax/java-completo/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20usando%20Java/Anota%C3%A7%C3%B5es/img/Pasted%20image%2020240502001331.png?raw=true)
 
 ## Nomes de variáveis
 
