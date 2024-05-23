@@ -35,4 +35,17 @@ tipo nome = valor inicial;
 | int 5minutos;               | int _5minutos;            |
 | int salário;                | int salario;              |
 | int salário do funcionario; | int salarioDoFuncionario; |
+|                             |                           |
 
+**É boa prática**
+
+Sempre indique o tipo do número, se a expressão for de ponto flutuante(não inteira).
+
+para double use:
+0.
+ex: 6.0
+
+
+para float use:
+f
+ex: 6f
